@@ -5,7 +5,8 @@ In this project I usedBeautifulSoup and Splinter to scrape full-resolution image
 
 # Title Page with background image
 The following title backgrroun dtitle is produced using the bootstrap class  jumbotron and style background-image and  imgaes from website(https://wallpapercave.com). The code to produce the image is given below.
-<div class="jumbotron text-center" style="background-image: url('	https://wallpapercave.com/wp/wp8586769.jpg');background-position: center; background-size: cover;height: 250px;">
+
+![code-1](https://github.com/nebil2016/Mission-to-Mars/blob/main/images/code.png)
   
 ![fig-1](https://github.com/nebil2016/Mission-to-Mars/blob/main/images/title_background.png)
   
